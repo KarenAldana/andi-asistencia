@@ -22,7 +22,7 @@ Repositorio del codigo fuente de Andi Asistencia, en la parte baja se encuentran
 * Objetivos SMART
 * [Modelado del negocio (Canvas)](https://drive.google.com/open?id=0B9uDbLG8dnf9LVVnOWhrVVhtcEE)
 * Documento de levantamiento de requerimientos (deseable IEE 830)
-* Modelado de casos de Uso + fichas.
+* [Modelado de casos de Uso + fichas] (https://drive.google.com/file/d/0B-SiTuU1detkQjhDMVNfZWJ1N2s/view)
 * Diagramas de clases
 * Diagramas de secuencia
 
